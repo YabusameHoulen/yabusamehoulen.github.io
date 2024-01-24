@@ -2,7 +2,7 @@
 @def hasmath = true
 @def hascode = true
 
-# 这是什么site捏
+# Yabusame的大炼金炉
 
 \tableofcontents
 
@@ -17,6 +17,10 @@ a, b = randn(50), randn(50)
 println(dot(a, b))
 println(sum(ai * bi for (ai, bi) ∈ zip(a, b)))
 ```
+
+## 放一张动漫照片
+![camel](/assets/sicptu.jpeg)
+
 ## 然后结束
 $$ \forall x \in \R:\quad \scal{x, x} \ge 0 $$
 
