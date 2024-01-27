@@ -101,7 +101,7 @@ p {
 }
 
 a {
-  color: #0e39b0;
+  color: #8f4cbf;
   text-decoration: none;
 }
 
@@ -647,4 +647,4 @@ franklin-toc {
   /* Avoid clickable elements being too close together. */
   margin: 0.6rem 0;
 }
-}
+

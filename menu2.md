@@ -46,12 +46,12 @@ so this is plain-text stuff.
 
 Extension of highlighting for `pkg` an `shell` mode in Julia:
 
-```julia-repl
+<!-- ```julia-repl
 (v1.4) pkg> add Franklin
 shell> blah
 julia> 1+1
 (Sandbox) pkg> resolve
-```
+``` -->
 
 you can tune the colouring in the CSS etc via the following classes:
 
